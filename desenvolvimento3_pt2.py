@@ -1,3 +1,4 @@
+# Usando o laço repetidor While, como proposto
 andar = 20
 while andar > 0:
   if andar != 13:
